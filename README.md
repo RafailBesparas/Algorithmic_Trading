@@ -1,5 +1,7 @@
 # 📈 Unsupervised Learning Trading Strategy
 
+(I need to add the documentation for mathematical programming and add a concept txt with the mathematics behind it)
+
 This repository contains my end-to-end **quant research pipeline** combining unsupervised learning, factor models, technical indicators, and portfolio optimization to test systematic stock selection on the **S&P 500**.
 
 ---
